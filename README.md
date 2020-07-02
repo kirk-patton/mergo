@@ -1,6 +1,6 @@
 # mergo
 
-Prior to mergo v0.3.9 merging of fields that had a different type worked.
+Prior to mergo v0.3.9 merging of fields that had a different types worked.
 
 Ex.
 config := `foo: 1`
